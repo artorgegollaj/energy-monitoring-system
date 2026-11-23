@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Data (large / generated)
+data/raw/
+data/features/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Spark streaming
+checkpoints/
+
+# Trained models
+ml/models/
+
+# IDE
+.idea/
+.vscode/
